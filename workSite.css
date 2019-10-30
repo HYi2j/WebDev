@@ -25,47 +25,27 @@
   height: 100px;
   }
 .bTn {
-  background-color:rgb(150, 193, 218);
-  border: none;
+  background-color:rgb(212, 199, 226);
   color: rgb(87, 118, 202);
-  padding: 15px 32px;
+  padding: 12px 28px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 20px;
-  border: 2px solid;
-  border-color: black;
-  border-radius: 12px;
-}
-  /* }
-  nav:hover {
-    background-color: #ddd;
-    color: black;
-  }
-nav.active {
-    background-color: rgb(62, 82, 87);
-    color: white; */
+  border: 1px solid;
+  border-color: rgb(83, 14, 80);
+  border-radius: 42px;
+} 
 body{
     background-color: rgb(180, 228, 228);
     font-size: 18px;
     color: rgb(151, 42, 151);
     text-align: center;
     padding: 30px;
-    /* background-image: url(Harvey.jpg); */
     background-size : 100px;
     background-repeat: no-repeat;
     font-family: 'Raleway', sans-serif;{
     }
-
-
-
-/* 
-<ul>
-  <li><a href="default.asp">Home</a></li>
-  <li><a href="news.asp">News</a></li>
-  <li><a href="contact.asp">Contact</a></li>
-  <li><a href="about.asp">About</a></li>
-</ul> */
 .content1{
     text-align: left;
     color: black;
