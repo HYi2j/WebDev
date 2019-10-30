@@ -41,16 +41,18 @@ body{
     font-size: 18px;
     color: rgb(151, 42, 151);
     text-align: center;
-    padding: 30px;
+    /* padding: 30px; */
     background-size : 100px;
     background-repeat: no-repeat;
-    font-family: 'Raleway', sans-serif;{
-    }
+    font-family: 'Raleway', sans-serif;
+}
 .content1{
-    text-align: left;
-    color: black;
-    font-size: 16px;
-    column-count: 3
+    color: rgb(66, 9, 59);
+    font-size: 18px;
+    column-count: 1;
+    margin-left: 100px;
+    margin-right: 100px;
+    list-style-type: none;
 }
 .content2{
     text-align: left;
