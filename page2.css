@@ -4,8 +4,9 @@ h1{
     font-family:'Raleway', sans-serif;
     text-align: center
 }
-body{background-color: rgb(180, 228, 228);
-    font-size: 18px;
+.body{
+    background-color: rgb(180, 228, 228);
+    font-size: 10px;
     color: rgb(151, 42, 151);
     text-align: left ;
     padding: 10px;

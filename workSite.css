@@ -24,7 +24,19 @@
   width: 200px;
   height: 100px;
   }
-
+.bTn {
+  background-color:rgb(150, 193, 218);
+  border: none;
+  color: rgb(87, 118, 202);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border: 2px solid;
+  border-color: black;
+  border-radius: 12px;
+}
   /* }
   nav:hover {
     background-color: #ddd;
@@ -44,17 +56,7 @@ body{
     background-repeat: no-repeat;
     font-family: 'Raleway', sans-serif;{
     }
-.button {
-    background-color: gray; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 42px;
-    border-radius: 12px;
-}
+
 
 
 /* 
