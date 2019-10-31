@@ -1,25 +1,29 @@
 .nav{
+  display:flex;
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: nowrap;
   background-color: rgb(172, 196, 240);
   overflow: hidden;
   float: center;
   color: #f2f2f2;
   text-align: center;
-  padding: 10px 10px;
+  padding: 6px 6px;
   text-decoration: none;
   font-size: 18px;
 }
 .mainHeading{
   display:flex;
-  flex: 1;
+  flex: 2;
   flex-direction: row;
   flex-wrap: nowrap; 
   color: rgb(64, 9, 128);
   font-size: 36px;
   font-family: 'Raleway', sans-serif;
-  text-align: center;
+  text-align: left;
   position: relative;
   top: 18px;
-  left: 400px;
+  left: 100px;
   float: left;
   width: 200px;
   height: 100px;
@@ -35,7 +39,7 @@
   border: 1px solid;
   border-color: rgb(83, 14, 80);
   border-radius: 42px;
-} 
+}
 body{
     background-color: rgb(180, 228, 228);
     /* background-image: url("Spinning_Dancer.gif"); */
@@ -68,4 +72,11 @@ body{
   text-align:center;
   color: rgb(128, 19, 115);
   font-size:18px;
+}
+.content4{
+  color: rgb(128, 19, 115);
+  text-align: left;
+  font-size: 20px;
+  text-indent: 120px;
+  line-height: 120%;
 }
