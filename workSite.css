@@ -38,24 +38,34 @@
 } 
 body{
     background-color: rgb(180, 228, 228);
+    /* background-image: url("Spinning_Dancer.gif"); */
     font-size: 18px;
     color: rgb(151, 42, 151);
     text-align: center;
     /* padding: 30px; */
-    background-size : 100px;
+    /* background-size : 1500px 1500px; */
     background-repeat: no-repeat;
     font-family: 'Raleway', sans-serif;
 }
 .content1{
-    color: rgb(66, 9, 59);
+    color: rgb(128, 19, 115);
     font-size: 18px;
     column-count: 1;
     margin-left: 100px;
     margin-right: 100px;
     list-style-type: none;
+    text-align: justify;
+    /* line-height: 105%; */
 }
 .content2{
     text-align: left;
-    color: rosybrown;
+    color: rgb(128,19,115);
     font-size: 18px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.content3{
+  text-align:center;
+  color: rgb(128, 19, 115);
+  font-size:18px;
 }
